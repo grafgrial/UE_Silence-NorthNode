@@ -3,6 +3,20 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ChaosCaching",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"Android",
 		"LinuxNoEditor",
